@@ -4,6 +4,6 @@
 ##xhofe/alist:latest
 #支持指定架构
 ##--platform=linux/arm64 xiaoyaliu/alist
-onlyoffice/documentserver
+onlyoffice/documentserver:latest
 johnserfseed/tiktokweb
-xiaoyaliu/alist
+xiaoyaliu/alist:latest
