@@ -6,6 +6,6 @@
 ##--platform=linux/arm64 xiaoyaliu/alist
 #onlyoffice/documentserver:latest
 #johnserfseed/tiktokweb
-xiaoyaliu/alist:latest
+#xiaoyaliu/alist:latest
 simon-ding/polaris
 linuxserver/jackett
