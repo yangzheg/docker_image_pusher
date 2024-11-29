@@ -7,4 +7,4 @@
 onlyoffice/documentserver:latest
 #johnserfseed/tiktokweb
 xiaoyaliu/alist:latest
-simon-ding/polaris:latest
+vaultwarden/server:latest
