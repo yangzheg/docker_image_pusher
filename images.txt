@@ -7,5 +7,4 @@
 #onlyoffice/documentserver:latest
 #johnserfseed/tiktokweb
 #xiaoyaliu/alist:latest
-simon-ding/polaris
-linuxserver/jackett
+simon-ding/polaris:latest
